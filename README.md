@@ -1,43 +1,79 @@
-<img align="right" src="https://github.com/Tirth-Patel903/Tirth-Patel903/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<h1>Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-### Hi there, I am Tirth Patel 👋
-[![Linkedin Badge](https://img.shields.io/badge/-tirth7900?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tirth7900/)](https://www.linkedin.com/in/tirth7900/)
-[![Gmail Badge](https://img.shields.io/badge/-tirthp903@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tirthp903@gmail.com )](mailto:tirthp903@gmail.com ) 
+<p align="center">Welcome to my page! </br> I'm Tirth, a Software Developer from <img src="[https://www.flaticon.com/free-icon/united-states_202950](https://www.flaticon.com/free-icon/united-states_202950)" width="13"/> <b>New York, USA</b>.</p>
 
-- 🎯 Portfolio website: [Portfolio](https://tirthpatel903.netlify.app/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+<p>
+    My career is developing software, but my life is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
 
-💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
 
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Tirth-Patel903&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+My goal is to travel the world with just one bag. When I’m not on a computer, I’m probably making pour-over coffee or practicing my zombie apocalypse skills, just not at the same time since shooting arrows through zombie heads makes maintaining a steady pour rate rather difficult.
+</p>
+
+
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coder GIF" height="250" width="350" style="display: block; margin: 10 auto;">
+
+<br>
+
+<!-- TECHNOLOGIES -->
+<h3>:zap: Technologies</h3>
+
+<p>
+<img alt="python" src="https://img.shields.io/badge/Python-black?logo=python&amp;style=plastic" /> <img alt="go" src="https://img.shields.io/badge/Go-black?logo=go&amp;style=plastic" /> <img alt="java" src="https://img.shields.io/badge/Java-black?logo=java&amp;style=plastic" /> <img alt="javascript" src="https://img.shields.io/badge/Javascript-black?logo=javascript&amp;style=plastic" /> <img alt="typescript" src="https://img.shields.io/badge/Typescript-black?logo=typescript&amp;style=plastic" /> <img alt="npm" src="https://img.shields.io/badge/npm-black?logo=npm&amp;style=plastic" /> <img alt="nodejs" src="https://img.shields.io/badge/Node.js-black?logo=node.js&amp;style=plastic" /> <img alt="nestjs" src="https://img.shields.io/badge/Nestjs-black?logo=nestjs&amp;style=plastic" /> <img alt="angular" src="https://img.shields.io/badge/Angular-black?logo=angular&amp;style=plastic" /> <img alt="react" src="https://img.shields.io/badge/React-black?logo=react&amp;style=plastic" /> <img alt="django" src="https://img.shields.io/badge/Django-black?logo=django&amp;style=plastic" /> <img alt="php" src="https://img.shields.io/badge/PHP-black?logo=php&amp;style=plastic" /> <img alt="git" src="https://img.shields.io/badge/Git-black?logo=git&amp;style=plastic" /> <img alt="ansible" src="https://img.shields.io/badge/Ansible-black?logo=ansible&amp;style=plastic" /> <img alt="docker" src="https://img.shields.io/badge/Docker-black?logo=docker&amp;style=plastic" /> <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes&amp;style=plastic" /> <img alt="github-actions" src="https://img.shields.io/badge/Github%20Actions-black?logo=github-actions&amp;style=plastic" /> <img alt="circleci" src="https://img.shields.io/badge/CircleCI-black?logo=circleci&amp;style=plastic" /> <img alt="vagrant" src="https://img.shields.io/badge/Vagrant-black?logo=vagrant&amp;style=plastic" /> <img alt="google-cloud-platform" src="https://img.shields.io/badge/GCP-black?logo=google-cloud&amp;style=plastic" /> <img alt="heroku" src="https://img.shields.io/badge/Heroku-black?logo=heroku&amp;style=plastic" /> <img alt="amazon-aws" src="https://img.shields.io/badge/AWS-black?logo=amazon-aws&amp;style=plastic" /> <img alt="numpy" src="https://img.shields.io/badge/NumPy-black?logo=numpy&amp;style=plastic" /> <img alt="pandas" src="https://img.shields.io/badge/Pandas-black?logo=pandas&amp;style=plastic" /> <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-black?logo=scikit-learn&amp;style=plastic" /> <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-black?logo=tensorflow&amp;style=plastic" /> <img alt="jest" src="https://img.shields.io/badge/Jest-black?logo=jest&amp;style=plastic" /> <img alt="cypress" src="https://img.shields.io/badge/Cypress-black?logo=cypress&amp;style=plastic" /> <img alt="selenium" src="https://img.shields.io/badge/Selenium-black?logo=selenium&amp;style=plastic" /> <img alt="elastic-stack" src="https://img.shields.io/badge/Elastic%20Stack-black?logo=elastic-stack&amp;style=plastic" /> <img alt="eslint" src="https://img.shields.io/badge/ESLint-black?logo=eslint&amp;style=plastic" /> <img alt="vscode" src="https://img.shields.io/badge/VSCode-black?logo=visual-studio-code&amp;style=plastic" /> <img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-black?logo=google-chrome&amp;style=plastic" /> <img alt="brave" src="https://img.shields.io/badge/Brave-black?logo=brave&amp;style=plastic" /> <img alt="duck-duck-go" src="https://img.shields.io/badge/DuckDuckGo-black?logo=duckduckgo&amp;style=plastic" /> <img alt="sass" src="https://img.shields.io/badge/Sass-black?logo=sass&amp;style=plastic" /> <img alt="styled-components" src="https://img.shields.io/badge/Styled%20components-black?logo=styled-components&amp;style=plastic" /> 
+</p>
+
+<!-- PROJECTS -->
+<h3>:computer: Open Source Projects</h3>
+
+<table>
+    <thead>
+        <td>🎁 Project </td>
+        <td> ⭐ Stars </td>
+        <td> 📚 Forks </td>
+    </thead>
+    <tr>
+        <td><a href="https://github.com/und3fined-v01d/Friend.ly">Friend.ly</a></td>
+        <td><img src="https://img.shields.io/github/stars/und3fined-v01d/Friend.ly?style=plastic&amp;labelColor=343b41" /></td>
+        <td><img src="https://img.shields.io/github/forks/und3fined-v01d/Friend.ly?style=plastic&amp;labelColor=343b41" /></td>
+    </tr><tr>
+        <td><a href="https://github.com/Tirth-Patel903/Apply-By-AI">Apply By AI</a></td>
+        <td><img src="https://img.shields.io/github/stars/Tirth-Patel903/Apply-By-AI?style=plastic&amp;labelColor=343b41" /></td>
+        <td><img src="https://img.shields.io/github/forks/Tirth-Patel903/Apply-By-AI?style=plastic&amp;labelColor=343b41" /></td>
+    </tr><tr>
+        <td><a href="https://github.com/vrushti-mody/WandaVision">Wanda Vision</a></td>
+        <td><img src="https://img.shields.io/github/stars/vrushti-mody/WandaVision?style=plastic&amp;labelColor=343b41" /></td>
+        <td><img src="https://img.shields.io/github/forks/vrushti-mody/WandaVision?style=plastic&amp;labelColor=343b41" /></td>
+    </tr><tr>
+        <td><a href="https://github.com/Tirth-Patel903/DSA">DSA</a></td>
+        <td><img src="https://img.shields.io/github/stars/Tirth-Patel903/DSA?style=plastic&amp;labelColor=343b41" /></td>
+        <td><img src="https://img.shields.io/github/forks/Tirth-Patel903/DSA?style=plastic&amp;labelColor=343b41" /></td>
+    </tr>
+</table>
+
+<!-- POSTS -->
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Tirth-Patel903&color=blue"/>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Tirth-Patel903"/>
+</p>
+
+<a align="center" href="https://tirthpatel903.netlify.app//">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tirth-Patel903&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-Patel903&layout=compact&theme=tokyonight" alt="languages" height="165">
+</a>
+
+<!-- SOCIAL -->
+<h3>:milky_way: Find me in the 'verse</h3>
+
+<p>
+    <a href="https://github.com/Tirth-Patel903" target="_blank">
+        <img alt="github" src="https://img.shields.io/github/followers/Tirth-Patel903?label=GitHub&amp;style=social" />
+    </a><a href="https://linkedin.com/in/tirth7900" target="_blank">
+        <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
+    </a><a href="https://twitter.com/TirthPatel7900" target="_blank">
+        <img alt="twitter" src="https://img.shields.io/twitter/follow/vidhi_mody?label=Twitter&amp;style=social" />
     </a>
-    
-🛠**Tech Stack**
+</p>
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
-
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
-
+<hr />
