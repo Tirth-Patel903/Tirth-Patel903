@@ -1,7 +1,5 @@
 <img align="right" src="https://github.com/Tirth-Patel903/Tirth-Patel903/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
-Tirth Patel
-
 ### Hi there, I am Tirth Patel 👋
 [![Linkedin Badge](https://img.shields.io/badge/-tirth7900?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tirth7900/)](https://www.linkedin.com/in/tirth7900/)
 [![Gmail Badge](https://img.shields.io/badge/-tirthp903@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tirthp903@gmail.com )](mailto:tirthp903@gmail.com ) 
