@@ -1,4 +1,4 @@
-<h1>Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1>Hey there! Tirth <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p align="center">Welcome to my page! </br> I'm Tirth, a Software Developer from <img src="[https://www.flaticon.com/free-icon/united-states_202950](https://www.flaticon.com/free-icon/united-states_202950)" width="13"/> <b>New York, USA</b>.</p>
 
