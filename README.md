@@ -3,8 +3,7 @@
 <p align="center">Welcome to my page! </br> I'm Tirth, a Software Developer from <img src="[https://www.flaticon.com/free-icon/united-states_202950](https://www.flaticon.com/free-icon/united-states_202950)" width="13"/> <b>New York, USA</b>.</p>
 
 <p>
-    My career is developing software, but my life is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
-
+    My career is developing software, but my life is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. 
 
 My goal is to travel the world with just one bag. When I’m not on a computer, I’m probably making pour-over coffee or practicing my zombie apocalypse skills, just not at the same time since shooting arrows through zombie heads makes maintaining a steady pour rate rather difficult.
 </p>
